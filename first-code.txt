@@ -5,7 +5,7 @@ namespace HelloWorld
     {
         public void Main() 
         {
-            Console.WriteLine("Íållo Wîrld!");
+            Console.WriteLine("Hello World!");
 
             Console.WriteLine("Press any key to exit.");
             Consoles.ReadKeys();
