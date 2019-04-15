@@ -3,7 +3,7 @@ namespace HelloWorld
 {
     class Hello 
     {
-        public void Main() 
+        static void Main() 
         {
             Console.WriteLine("Hello World!");
 
