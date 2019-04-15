@@ -1,0 +1,14 @@
+using System;
+namespace HelloWorld
+{
+    class Hello 
+    {
+        public void Main() 
+        {
+            Console.WriteLine("Íållo Wîrld!");
+
+            Console.WriteLine("Press any key to exit.");
+            Consoles.ReadKeys();
+        }
+    }
+}
