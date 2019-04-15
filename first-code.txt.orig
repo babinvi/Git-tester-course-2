@@ -1,0 +1,23 @@
+using System;
+namespace HelloWorld
+{
+    class Hello 
+    {
+<<<<<<< HEAD
+        static void Main() 
+        {
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+=======
+        public void Main() 
+        {
+            Console.WriteLine("Íållo Wîrld!");
+
+            Console.WriteLine("Press any key to exit.");
+            Consoles.ReadKeys();
+>>>>>>> origin/other-first-code
+        }
+    }
+}
